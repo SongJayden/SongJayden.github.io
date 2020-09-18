@@ -459,6 +459,11 @@ p {
   opacity: 1;
   pointer-events: auto;
 }
+.arrow-up:hover {
+  transform: scale(1.2);
+  color: var(--color-dark-emerald);
+  transition: all var(--animation-duation) ease-in;
+}
 
 /* For below 768px screen width */
 @media screen and (max-width: 768px) {
