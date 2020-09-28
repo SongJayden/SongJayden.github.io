@@ -400,6 +400,7 @@ p {
   width: 150px;
   height: 150px;
   border-radius: 50%;
+  border: 1px solid var(--color-white);
 }
 .testimonial__avatar:nth-child(odd) {
   margin-right: 40px;
