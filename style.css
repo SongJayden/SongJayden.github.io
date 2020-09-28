@@ -219,6 +219,7 @@ p {
 .job {
   display: flex;
   align-items: center;
+  padding: 10px 0;
 }
 .job__description {
   margin: 0 16px;
